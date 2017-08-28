@@ -16,3 +16,9 @@ Steps to run the program :
 Note : If you do not specify the file on the command a default file with default data will be used within the project
 
 There is an excel file named "Menu.xlsx" too in the zip folder that you can use
+
+Assumptions : 
+
+# Any dish can be repeated any number of times in the combination subset to reach the target
+# If there are more than one dish having the same price the dishes will be seperated with a "/".
+# For example (pizza/wings | mozarella | salad)
