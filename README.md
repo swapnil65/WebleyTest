@@ -15,10 +15,10 @@ Steps to run the program :
 
 Note : If you do not specify the file on the command a default file with default data will be used within the project
 
-
 Sample Output :
 
 Swapnils-MacBook-Pro:Desktop swapnilbalakrishna7$ java -jar CombinationDishes.jar Menu.xlsx 
+
 Combination 1: mixed fruit | mixed fruit | mixed fruit | hot wings | 
 --------------------------------------------------------------------
 Combination 2: mozzarella sticks | sampler plate | 
