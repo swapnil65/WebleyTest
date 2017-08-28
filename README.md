@@ -1,7 +1,3 @@
-# WebleyTest
-Coding Assignment
-
-Program to find combination of Dishes that add to a target price :
 
 Steps to run the program :
 
